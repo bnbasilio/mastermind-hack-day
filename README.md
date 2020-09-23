@@ -1,5 +1,4 @@
 # Hack day: Mastermind challenge :brain:
-Hack day Mastermind game challenge, written in an unfamiliar language :coffee:
 
 ## Challenge :sweat:
 Today, you will implement the game Mastermind.
