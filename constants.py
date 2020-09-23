@@ -53,5 +53,5 @@ WELCOME_MESSAGE = 'Welcome to Mastermind!'
 BOT_OR_TWO_PLAYER_PROMPT = 'Would you like to play against a bot? Y/N? '
 
 # message for guesses maxed out
-GUESSES_MAXED_OUT_MESSAGE = 'You have exhausted your guesses. Try again next '
-'time.'
+GUESSES_MAXED_OUT_MESSAGE = 'You have exhausted your guesses. Try again next' \
+' time.'
